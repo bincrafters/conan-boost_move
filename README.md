@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Move](https://github.com/Boostorg/Move) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Move%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Move%3Abincrafters).
 
 ## For Users: Use this package
 
