@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostMoveConan(ConanFile):
     name = "boost_move"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-move"
+    url = "https://github.com/bincrafters/conan-boost_move"
 
     lib_short_names = ["move"]
     is_header_only = True
