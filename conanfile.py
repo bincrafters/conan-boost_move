@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.68.0@bincrafters/stable")
 
 class BoostMoveConan(base.BoostBaseConan):
     name = "boost_move"
+    version = "1.68.0"
     url = "https://github.com/bincrafters/conan-boost_move"
     lib_short_names = ["move"]
     header_only_libs = ["move"]
